@@ -1,0 +1,61 @@
+
+/* Modern CSS for Dachbox-Vermietung */
+body {
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f9f9f9;
+    color: #333;
+}
+
+header, footer {
+    background-color: #004466;
+    color: white;
+    padding: 1em 2em;
+    text-align: center;
+}
+
+nav {
+    background-color: #006699;
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+    padding: 0.8em 0;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+nav a:hover {
+    color: #ffcc00;
+}
+
+main {
+    max-width: 900px;
+    margin: 2em auto;
+    padding: 1em;
+    background: white;
+    box-shadow: 0 0 10px rgba(0,0,0,0.05);
+}
+
+h1, h2, h3 {
+    color: #004466;
+}
+
+button, .btn {
+    background-color: #006699;
+    color: white;
+    border: none;
+    padding: 0.6em 1.2em;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover, .btn:hover {
+    background-color: #004466;
+}
