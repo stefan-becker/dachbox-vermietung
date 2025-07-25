@@ -3,10 +3,10 @@ layout: default
 title: Angebote
 ---
 
-# Unsere Angebote
+### Unsere Mietpreise
 
-| Boxgröße | Preis pro Tag | Kaution |
-|----------|----------------|---------|
-| Klein    | 5 €            | 50 €    |
-| Mittel   | 7 €            | 70 €    |
-| Groß     | 9 €            | 90 €    |
+- **Kleine Dachbox (300L)** – 5 €/Tag  
+- **Mittlere Dachbox (400L)** – 7 €/Tag  
+- **Große Dachbox (500L)** – 9 €/Tag
+
+Alle Preise inkl. Montage und Versicherung.

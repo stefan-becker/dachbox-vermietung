@@ -1,10 +1,7 @@
 ---
 layout: default
-title: Willkommen
+title: Start
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-
-# Willkommen bei Dachbox-Vermietung
-
-Mieten Sie einfach und günstig eine Dachbox für Ihren nächsten Urlaub!
+Willkommen bei der Dachbox Vermietung!  
+Mieten Sie hochwertige Dachboxen für Ihren nächsten Urlaub – flexibel, günstig und unkompliziert.

@@ -1,5 +1,5 @@
 title: Dachbox Vermietung
-description: Vermietung von Dachboxen – einfach, günstig, zuverlässig
-baseurl: ""
-url: ""
+description: Vermietung von Dachboxen – einfach, schnell und günstig
+baseurl: "/dachbox-vermietung"
+url: "https://<dein-benutzername>.github.io"
 theme: minima
