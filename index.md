@@ -1,6 +1,9 @@
 ---
 layout: default
 title: Willkommen
+
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
 ---
 
 # Willkommen bei Dachbox-Vermietung
